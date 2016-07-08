@@ -1,6 +1,7 @@
 # electron-for-beginners
 Electron framework guide for complete beginners.
-___
+
+
 **Electron Version**: 1.2.6 // **Node Version**: 6.1.0
 ___
 **Chapters/Table of Contents:**

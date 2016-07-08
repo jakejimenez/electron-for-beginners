@@ -5,7 +5,10 @@ Electron framework guide for complete beginners.
 
 **Chapters/Table of Contents:**
 1. Environment Setup
+
 2. Basic Electron Application
+
 3. Multi-Window Electron Application
+
 4. File System Viewer Application
 

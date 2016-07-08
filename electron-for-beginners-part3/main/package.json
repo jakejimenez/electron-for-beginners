@@ -1,0 +1,19 @@
+{
+  "name": "main",
+  "version": "1.0.0",
+  "description": "Part 3 of Electron for Beginners //  Multi Window Application in the Main Process.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "electron",
+    "node",
+    "nodejs"
+  ],
+  "author": "r00t1000",
+  "license": "ISC",
+  "dependencies": {
+    "electron-prebuilt": "^1.2.6"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "electron-for-beginners-part1",
+  "version": "1.0.0",
+  "description": "Part 1 of Electron for Beginners",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r00t1000/electron-for-beginners.git"
+  },
+  "keywords": [
+    "electron",
+    "node",
+    "beginners"
+  ],
+  "author": "r00t1000 (r00t1000.xyz)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/r00t1000/electron-for-beginners/issues"
+  },
+  "homepage": "https://github.com/r00t1000/electron-for-beginners#readme"
+}

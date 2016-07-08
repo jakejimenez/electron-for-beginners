@@ -1,0 +1,17 @@
+{
+  "name": "electron-for-beginners-part2",
+  "version": "1.0.0",
+  "description": "Part 1 in Electron for Beginners // A Basic Electron Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "electron",
+    "node",
+    "nodejs",
+    "node.js"
+  ],
+  "author": "r00t1000",
+  "license": "ISC"
+}

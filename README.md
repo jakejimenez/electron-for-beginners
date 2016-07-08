@@ -4,6 +4,8 @@ Electron framework guide for complete beginners.
 
 **Electron Version**: 1.2.6 // **Node Version**: 6.1.0
 ___
+**Level:** Beginner
+___
 **Chapters/Table of Contents:**
 
 1. Environment Setup
